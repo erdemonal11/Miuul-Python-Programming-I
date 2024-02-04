@@ -105,7 +105,7 @@ overall = list(zip(course_credit, quota))
 for (course, credit), quota in overall:
     print(f"{course} has {credit} credits and a quota of {quota}")
 
-# Task VII:
+# Task VIII:
 
 set1 = set(["data", "python"])
 set2 = set(["data", "function", "qcut", "lambda", "python", "miuul"])
