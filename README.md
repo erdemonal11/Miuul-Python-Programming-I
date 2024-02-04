@@ -41,12 +41,14 @@ Step 5: Delete Antonio from the dictionary.
 
 # Task 5:
 Write a function that takes a list as an argument, assigns the odd and even numbers in the list to separate lists, and returns
+<br/>
 ![image](https://github.com/erdemonal11/Miuul-Python-Programming-I/assets/137915983/27c2ec34-10c7-47a6-a60e-e7d9e3d3fead)
 
 # Task 6:
 The names of the students who ranked in the engineering and medical faculties in the list given below
 are included. The first three students represent the success rank of the engineering faculty, while the last three students represent the success rank of the engineering faculty.
 belongs to the medical school student rank. Print student ranks by faculty using Enumarate
+<br/>
 ![image](https://github.com/erdemonal11/Miuul-Python-Programming-I/assets/137915983/dade9741-d074-42c0-bdca-0dddfbcc4457)
 
 Expected output:
