@@ -1,4 +1,4 @@
-# This repository is published as Case Study I sample answers for the Miuul Python Programming for Data Science course.
+# This repository is published as Case Study I, with sample answers written by me for the Miuul Python Programming for Data Science course.
 
 Case Study questions are given below:
 
